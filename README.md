@@ -129,7 +129,9 @@ Installare Bootstrap:
 -   Eseguire il comando npm i o npm install
 -   Aprire un secondo terminale
 -   In uno dei due terminali, eseguire il comando php artisan serve. Nell'altro, npm run dev
--   Creare una template repository
+
+Creare una template repository
+
 -   Aprire la repo su github
 -   Cliccare su Settings
 -   Spuntare la casella Template repository
